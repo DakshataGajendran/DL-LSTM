@@ -37,9 +37,9 @@ Apply the trained model to new sentences to identify named entities and evaluate
 
 ## PROGRAM
 
-### Name: Danica Christa
+### Name: Dakshata G
 
-### Register Number: 212223240022
+### Register Number: 212223240021
 ```
 import pandas as pd
 import torch
